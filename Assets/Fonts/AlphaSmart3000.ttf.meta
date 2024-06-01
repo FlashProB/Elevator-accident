@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7169f10ae4a0e2043ac6ca071c64f29f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - AlphaSmart 3000
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b00ea23c19ab75a4785c6c326e99990c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
